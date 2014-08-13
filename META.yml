@@ -4,6 +4,7 @@ author:
   - 'Robert Rothenberg, C<< <rrwo at cpan.org> >>'
 build_requires:
   ExtUtils::MakeMaker: 6.59
+  Test::Differences: 0
   Test::Most: 0
 configure_requires:
   ExtUtils::MakeMaker: 6.59
@@ -31,4 +32,4 @@ resources:
   homepage: http://rrwo.tumblr.com
   license: http://www.perlfoundation.org/artistic_license_2_0
   repository: git://github.com/robrwo/Struct-Flatten-Template.git
-version: 0.001000
+version: 0.001001
